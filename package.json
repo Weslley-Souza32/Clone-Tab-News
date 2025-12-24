@@ -1,0 +1,25 @@
+{
+  "name": "clone-tab-news",
+  "version": "1.0.0",
+  "description": "Clone do tab-news para treinar codificação",
+  "homepage": "https://github.com/Weslley-Souza32/Clone-Tab-News#readme",
+  "bugs": {
+    "url": "https://github.com/Weslley-Souza32/Clone-Tab-News/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weslley-Souza32/Clone-Tab-News.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.0.10",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  }
+}
