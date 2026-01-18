@@ -19,10 +19,11 @@
     "lint:check": "prettier --check .",
     "lint:fix": "prettier --write .",
     "test": "jest",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watchAll"
   },
   "dependencies": {
     "next": "^16.0.10",
+    "pg": "^8.17.1",
     "react": "^18.3.0",
     "react-dom": "^18.3.0"
   },
